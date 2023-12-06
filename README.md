@@ -1,4 +1,4 @@
-bpublic class Disciplina 
+public class Disciplina 
 {
 	String nome;
 	Aluno pessoas[]=new Aluno[10];
